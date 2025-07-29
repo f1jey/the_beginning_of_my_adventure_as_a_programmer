@@ -1,3 +1,1 @@
-This repository was created for me as a programmer.
-There will be my projects to record the story of my beginnings.
-Good luck for me! <3
+This repository is for me as a programmer. Here will be my projects that will record the story of my becoming. Good luck to me! <3
